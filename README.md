@@ -1,4 +1,4 @@
-# nankai_3.0
+# blog
 
 > A Vue.js project
 
@@ -8,7 +8,7 @@
 # install dependencies
 npm install
 
-# serve with hot reload at localhost:8080
+# serve with hot reload at localhost:8089
 npm run dev
 
 # build for production with minification
@@ -18,4 +18,7 @@ npm run build
 npm run build --report
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+博客之家前台网站:
+
+线上地址：http://47.95.247.166:8086/#/blog/home
+
